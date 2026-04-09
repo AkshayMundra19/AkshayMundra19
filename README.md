@@ -12,11 +12,8 @@ Hi, I'm Akshay 👋  <br>A passionate programmer who loves solving problems and 
 ![](https://nirzak-streak-stats.vercel.app/?user=AkshayMundra19&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayMundra19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AkshayMundra19&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AkshayMundra19&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=AkshayMundra19&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AkshayMundra19&icon=4&color=0)](https://visitcount.itsvg.in)
