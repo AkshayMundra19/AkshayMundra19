@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😎 About Me:
 • 🔭 I'm currently working on ClaudeEye — an AI-powered monitoring & automation platform  
 • 👯 I'm looking to collaborate on AI-powered tools & SaaS products  
 • 🤝 I'm looking for help with scaling products & growth strategies  
