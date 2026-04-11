@@ -7,8 +7,8 @@
 • ⚡ Fun fact I built an AI team that codes, creates content & manages tasks — all autonomously  
 
 # 🙌 Achievements:
-📚 Certifications: Generative AI, Anthopic Claude, Hackathon and Participating in IIT Bombay and BITS Pilani Techfests.
-🌐 GitHub Goals: Building engaging projects, contributing to open source, and learning database management.
+• 📚 Certifications: Generative AI, Anthopic Claude, Hackathon and Participating in IIT Bombay and BITS Pilani Techfests.
+• 🌐 GitHub Goals: Building engaging projects, contributing to open source, and learning database management. 
 
 
 ## 🌐 Socials:
