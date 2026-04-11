@@ -6,6 +6,10 @@
 • 💬 Ask me about Full-stack development, AI integrations  
 • ⚡ Fun fact I built an AI team that codes, creates content & manages tasks — all autonomously  
 
+# 🙌 Achievements:
+📚 Certifications: Generative AI, Anthopic Claude, Hackathon and Participating in IIT Bombay and BITS Pilani Techfests.
+🌐 GitHub Goals: Building engaging projects, contributing to open source, and learning database management.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@akshay_maheshwari_19) 
