@@ -1,21 +1,33 @@
-# 😎 About Me:
-• 🔭 I'm currently working on ClaudeEye — an AI-powered monitoring & automation platform  
-• 👯 I'm looking to collaborate on AI-powered tools & SaaS products  
-• 🤝 I'm looking for help with scaling products & growth strategies  
-• 🌱 I'm currently learning AI/ML, Agentic AI & building autonomous systems  
-• 💬 Ask me about Full-stack development, AI integrations  
-• ⚡ Fun fact I built an AI team that codes, creates content & manages tasks — all autonomously  
+## 😎 About Me
 
-# 🙌 Achievements:
-• 📚 Certifications: Generative AI, Anthopic Claude, Hackathon and Participating in IIT Bombay and BITS Pilani Techfests.
-• 🌐 GitHub Goals: Building engaging projects, contributing to open source, and learning database management. 
+- 🔭 Currently building **ClaudeEye** — an AI-powered monitoring & automation platform  
+- 👯 Open to collaborating on **AI-powered tools & SaaS products**  
+- 🤝 Looking for help with **scaling products & growth strategies**  
+- 🌱 Learning **AI/ML, Agentic AI & Autonomous Systems**  
+- 💬 Ask me about **Full-Stack Development & AI Integrations**  
+- ⚡ Fun Fact: Built an **AI team that codes, creates content & manages tasks autonomously**  
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@akshay_maheshwari_19) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-mundra0101) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@akshaymundra19) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshaymundra07@gmail.com)  
+## 🙌 Achievements
+
+- 📚 **Certifications:** Generative AI, Anthropic Claude  
+- 🏆 Participated in **IIT Bombay & BITS Pilani Techfests (Hackathons)**  
+
+### 🌐 GitHub Goals
+
+- 🚀 Build impactful & engaging projects  
+- 🤝 Contribute to open source  
+- 🧠 Strengthen database management skills  
+
+---
+
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](#)
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](#)
 
 
 # 💻 Tech Stack:
