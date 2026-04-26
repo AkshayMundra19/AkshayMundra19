@@ -11,7 +11,7 @@
 
 ## 🙌 Achievements
 
-- 📚 **Certifications:** Generative AI, Anthropic Claude  
+- 📚 **Certifications:** Generative AI, Anthropic Claude, Data Science and Machine Learning 
 - 🏆 Participated in **IIT Bombay & BITS Pilani Techfests (Hackathons)**  
 
 ### 🌐 GitHub Goals
